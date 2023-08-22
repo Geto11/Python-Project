@@ -1,5 +1,4 @@
 import sys,time,os
-app_name = ("🆂🅷🅰🅿🅴🆂 🅰🆁🅴🅰 🅲🅰🅻🅲🆄🅻🅰🆃🅾🆁 ")
 import sys,time,os
 import sys
 from termcolor import colored, cprint
